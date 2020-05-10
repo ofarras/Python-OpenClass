@@ -1,2 +1,2 @@
-# Introducci-n-Python
+# Introducción a Python
 Introducción a Python (Ejercicios)
